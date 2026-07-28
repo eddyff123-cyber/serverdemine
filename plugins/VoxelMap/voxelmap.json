@@ -1,0 +1,15 @@
+{
+  "defaultConfig": {
+    "radarAllowed": true,
+    "radarMobsAllowed": true,
+    "radarPlayersAllowed": true,
+    "cavesAllowed": true,
+    "minimapAllowed": true,
+    "worldmapAllowed": true,
+    "waypointsAllowed": true,
+    "deathWaypointAllowed": true,
+    "teleportCommand": null,
+    "worldNameSuffix": ""
+  },
+  "worldOverrides": []
+}
